@@ -44,7 +44,7 @@
 <img src="public/resume-service-image.png" alt="resume service example" />
 </p>
 
-Serverless service that uses the [jsonresume.org](https://jsonresume.org/) schema to generate dynamic resumes from a github gist that you can download or recieve back as a http response.
+Serverless service that uses the [jsonresume.org](https://jsonresume.org/) schema to generate dynamic resumes from a github gist that you can download or receive back as a http response.
 
 We use puppeteer with a headless chromium to essentially render an HTML page and convert to a pdf.
 
